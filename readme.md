@@ -4,7 +4,7 @@
 ## 在线预览
 https://amumuapp.github.io/calendar-plan/
 
-## 功能
+功能
 - 日历视图
 - 计划记录
 - 简单干净
